@@ -11,35 +11,47 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Latin Philology, 2029 (expected)
+* First State Examination for Teaching at Gymnasien (Grammar Schools) in Latin, English and Educational Sciences, 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* <b>June 2026 (expected): Scientific Assistant</b>
+  * University of Heidelberg
+  * Supervisor: Professor Dr. Holger Essler 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* <b>January 2026 - April 2026: Self-employed work</b>
+  * Customer: Dr. Saverio Dalpedri (University of Würzburg)
+  * Duties included: Encoding magical papyri
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* <b>January 2025 - December 2025: Scientific Assistant</b>
+  * University of Würzburg
+  * Duties included: Developing a parser for TEI-XML, developing an issue finder for papyri.info
+  * Supervisor: Dr. Holger Essler
+
+* <b>June 2024 - November 2024: Student Assistant</b>
+  * University of Heidelberg
+  * Duties included: Developing text-based image extraction for eScriptorium
+  * Supervisor: Dr. Rodney Ast
+
+* <b>September 2019 - February 2024: Student Assistant</b>
+  * University of Würzburg
+  * Duties included: Encoding papyrus texts, developing Python scripts, AI training
+  * Supervisor: Dr. Holger Essler
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* <b>Modern Languages</b>
+  * German (mother tongue)
+  * English (fluent, C1-C2)
+  * Spanish (basic, A1-A2)
+* <b>Ancient Languages</b>
+  * Latin (State Examination)
+  * Ancient Greek (Graecum)
+* <b>IT</b>
+  * Python (very good)
+  * VB.NET (good)
+  * Java (basic knowledge)
 
 Publications
 ======
@@ -58,7 +70,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
