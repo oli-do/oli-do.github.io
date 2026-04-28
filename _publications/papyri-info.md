@@ -2,11 +2,7 @@
 title: "Encodings on Papyri.info"
 collection: publications
 category: digital
-permalink: /publication/papyri-info
-excerpt: 'More than a hundred encodings according to the EpiDoc standard.'
-date: 2026-04-29
+permalink: 'https://papyri.info/editor/users/OliverD.'
+excerpt: 'Encodings according to the EpiDoc standard.'
 venue: 'Papyri.info'
-paperurl: 'https://papyri.info/editor/users/OliverD.'
-citation: Donath, Oliver. Encoding on Papyri.info.
 ---
-Click the URL provided above to gain access to a full list of encondings.
