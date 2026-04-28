@@ -8,7 +8,7 @@ date: 2026-07-24
 location: "Münster, Nordrhein-Westfalen, Germany"
 ---
 
-More information available shortly
+More information available shortly, date is not final.
 
-**Original Title:** Antikes Buchformat digital: Erste Schritte zur computergestützten Analyse interregionaler Korpora</lb>
-**Translation:** Ancient Book Format in Digital: First Steps towards the Computational Analysis of Interregional Corpora 
+**Original Title:** Antikes Buchformat digital: Erste Schritte zur computergestützten Analyse interregionaler Korpora</br>
+**Translation:** Ancient Book Format in Digital: First Steps towards the Computational Analysis of Interregional Corpora
