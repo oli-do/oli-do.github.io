@@ -4,7 +4,7 @@ collection: publications
 category: digital
 permalink: /publication/papyri-info
 excerpt: 'Encodings according to the EpiDoc standard.'
-date: 2026
+date: 2026-04-29
 venue: 'Papyri.info'
 ---
 Link to the full list: [https://papyri.info/editor/users/OliverD.](https://papyri.info/editor/users/OliverD.)
