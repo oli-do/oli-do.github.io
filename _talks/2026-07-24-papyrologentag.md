@@ -1,5 +1,5 @@
 ---
-title: "Presentation at the \"11. Deutscher Papyrologentag 2026\""
+title: "Presentation at the \"11. Deutscher Papyrologentag\""
 collection: talks
 type: "Presentation"
 permalink: /talks/2026-07-24-papyrologentag
