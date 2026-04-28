@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Oliver Donath's Homepage"
 title_separator          : "-"
 name                     : &name "Oliver Donath"
-description              : &description "Projects and Research bridging Classical Philology and Modern Technology."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Projects and Research bridging Papyrology and Modern Technology."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://oli-do.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Oliver Donath"
-  pronouns         : "he/him"  
-  bio              : "Doctoral Candidate. Currently independent contractor, soon scientific assistant @ University of Heidelberg."
+  pronouns         : # "he/him"  
+  bio              : "Doctoral Candidate. Projects and Research bridging Papyrology and Modern Technology."
   location         : "Würzburg, Germany"
   employer         : "University of Würzburg"
   uri              : # URL
-  email            : "oliver.donath@stud-mail.uni-wuerzburg.de" 
+  email            : "oliver.donath@stud-mail.uni-wuerzburg.de"
 
   # Academic websites
   academia         : # URL
