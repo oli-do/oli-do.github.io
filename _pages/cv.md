@@ -34,7 +34,7 @@ Work experience
   * Duties included: Developing text-based image extraction for eScriptorium
   * Supervisor: Dr. Rodney Ast
 
-* <b>September 2019 - February 2024: Student Assistant</b>
+* <b>July 2019 - February 2024: Student Assistant</b>
   * University of Würzburg
   * Duties included: Encoding papyrus texts, developing Python scripts, AI training
   * Supervisor: Dr. Holger Essler
