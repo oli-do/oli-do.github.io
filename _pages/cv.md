@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* <b>June 2026 (expected): Scientific Assistant</b>
+* <b>Since June 2026: Scientific Assistant</b>
   * University of Heidelberg
   * Supervisor: Professor Dr. Holger Essler 
 
